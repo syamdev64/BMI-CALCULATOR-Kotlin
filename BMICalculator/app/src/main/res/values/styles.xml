@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomSwitch" parent="Theme.AppCompat">
+        <!-- active thumb-->
+        <item name="colorControlActivated">@color/blue</item>
+
+        <!-- inactive thumb-->
+        <item name="colorSwitchThumbNormal">@color/blue</item>
+
+        <!-- inactive track color -->
+        <item name="android:colorForeground">@color/blue</item>
+
+    </style>
+
+</resources>
